@@ -1,3 +1,6 @@
+
+var f = DoProcess;
+
 function DoProcess(a, b) {
 
   function childProcessSum() {
